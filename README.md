@@ -1,0 +1,1 @@
+# logback-logtrust-test
